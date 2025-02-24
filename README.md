@@ -1,0 +1,2 @@
+# streamlit-earthquake
+Earthquake Detection
